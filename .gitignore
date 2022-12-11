@@ -1,0 +1,13 @@
+# directories
+.vs/
+**bin/
+!/**/assimp/bin/
+
+# files
+*.user
+*.vcxproj
+*.filters
+*.sln
+ 
+# ImGui stuff
+#**/imgui.ini
