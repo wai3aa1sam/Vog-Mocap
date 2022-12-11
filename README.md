@@ -15,10 +15,12 @@ Features:<br />
 • Simple user Interface<br />
 • Basic character control system with serial data<br />
 
-The Demo game (gif):
+The Demo game:
+
 png:
 ![alt text](https://github.com/wai3aa1sam/Vog-Mocap/blob/main/media/png/demo_game_debug.png?raw=true)
 ![alt text](https://github.com/wai3aa1sam/Vog-Mocap/blob/main/media/png/demo_game2.png?raw=true)
+
 gif:
 ![](https://github.com/wai3aa1sam/Vog-Mocap/blob/main/media/gifs/demo-game-raw.gif)
 
