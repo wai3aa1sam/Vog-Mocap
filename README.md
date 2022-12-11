@@ -5,6 +5,9 @@ Motion capture (Mocap) is my FYP topic.<br />
 Currently only support OpenGL.<br />
 Kinect and IMU are used for the motion capture hardwares<br />
 
+system-overview: 
+![alt text](https://github.com/wai3aa1sam/Vog-Mocap/blob/main/media/png/system-overview-v2.png?raw=true)
+
 Features:<br />
 • Deferred-Rendering<br />
 • Entity-Component-System(ECS)<br />
@@ -22,6 +25,10 @@ png:
 ![alt text](https://github.com/wai3aa1sam/Vog-Mocap/blob/main/media/png/demo_game2.png?raw=true)
 
 gif:
+(with our motion capture device)
+![](https://github.com/wai3aa1sam/Vog-Mocap/blob/main/media/gifs/demo-game.gif)
+
+(editor test)
 ![](https://github.com/wai3aa1sam/Vog-Mocap/blob/main/media/gifs/demo-game-raw.gif)
 
 How-to-build
